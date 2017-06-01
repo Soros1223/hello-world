@@ -9,4 +9,6 @@ Add local updates .
 # add new information 
 Add new information .
 
+# Add to local  master branch and push up to remote server 
 
+local master to remote server.
